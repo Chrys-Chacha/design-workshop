@@ -1,0 +1,17 @@
+#nav{
+    flex-direction: row;
+}
+#nav ul{
+    display: flex;
+    padding: 20px;
+}
+#nav ul li {
+    list-style: none;
+    padding-left: 8%;
+}
+#nav ul li a{
+    text-decoration: none;
+}
+#nav{
+    background-color: brown
+}
